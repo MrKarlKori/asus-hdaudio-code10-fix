@@ -1,0 +1,14 @@
+# Logs and temporary traces
+*.log
+*.etl
+*.dmp
+*.aml
+*.dsl
+*.bin
+*.bak
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
